@@ -1899,10 +1899,10 @@ class SMTPMailer(Mailer):
                 self.smtp.starttls()
                 self.smtp.ehlo()
             else:
-                sys.stdout.write('*** Error: Control reached an invalid option. ***')
+                sys.stderr.write('*** Error: Control reached an invalid option. ***')
                 sys.exit(1)
             if self.smtpserverdebuglevel > 0:
-                sys.stdout.write(
+                sys.stderr.write(
                     "*** Setting debug on for SMTP server connection (%s) ***\n"
                     % self.smtpserverdebuglevel)
                 self.smtp.set_debuglevel(self.smtpserverdebuglevel)
@@ -3639,7 +3639,7 @@ def main(args):
     (options, args, hook_info) = check_hook_specific_args(options, args)
 
     if options.version:
-        sys.stdout.write('git-multimail version ' + get_version() + '\n')
+        sys.stderr.write('git-multimail version ' + get_version() + '\n')
         return
 
     if options.c:
