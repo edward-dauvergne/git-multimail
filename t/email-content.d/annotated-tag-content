@@ -21,8 +21,6 @@ X-Git-NotificationType: ref_changed
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a change to annotated tag tag-annotated-new-content
 in repository test-repo.
 
@@ -51,10 +49,6 @@ repository and will be described in separate emails.  The revisions
 listed as "adds" were already present in the repository and have only
 been added to this reference.
 
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 EOF
 ######################################################################
 ######################################################################
@@ -78,8 +72,6 @@ X-Git-NotificationType: diff
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a commit to annotated tag tag-annotated-new-content
 in repository test-repo.
 
@@ -99,10 +91,6 @@ index d00491f..795ea43 100644
 @@ -1 +1 @@
 -1
 +t1
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 EOF
 ######################################################################
 ######################################################################
@@ -126,8 +114,6 @@ X-Git-NotificationType: diff
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a commit to annotated tag tag-annotated-new-content
 in repository test-repo.
 
@@ -147,10 +133,6 @@ index 795ea43..9bc7ad0 100644
 @@ -1 +1 @@
 -t1
 +t2
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 EOF
 ######################################################################
 Sending notification emails to: Announce List <announcelist@example.com>, Zébulon <zeb@example.com>
@@ -175,8 +157,6 @@ X-Git-Newrev: 3fe4049f738325dcf028a306bcb27a50246fab86
 X-Git-NotificationType: ref_changed
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
-
-This is an automated email from the git hooks/post-receive script.
 
 pushuser pushed a change to annotated tag tag-annotated-new-content
 in repository test-repo.
@@ -236,10 +216,6 @@ been added to this reference.
 Summary of changes:
  a.txt | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 EOF
 ######################################################################
 ######################################################################
@@ -263,8 +239,6 @@ X-Git-NotificationType: diff
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a commit to annotated tag tag-annotated-new-content
 in repository test-repo.
 
@@ -284,10 +258,6 @@ index d00491f..795ea43 100644
 @@ -1 +1 @@
 -1
 +t1
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 EOF
 ######################################################################
 ######################################################################
@@ -311,8 +281,6 @@ X-Git-NotificationType: diff
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a commit to annotated tag tag-annotated-new-content
 in repository test-repo.
 
@@ -332,10 +300,6 @@ index 795ea43..9bc7ad0 100644
 @@ -1 +1 @@
 -t1
 +t2
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 EOF
 ######################################################################
 Sending notification emails to: Announce List <announcelist@example.com>, Zébulon <zeb@example.com>
@@ -361,8 +325,6 @@ X-Git-NotificationType: ref_changed
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a change to annotated tag tag-annotated-new-content
 in repository test-repo.
 
@@ -374,9 +336,5 @@ This change permanently discards the following revisions:
 
   discards  fe0ff82   t2
   discards  8fe34ad   t1
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 EOF
 ######################################################################

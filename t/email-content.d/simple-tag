@@ -20,17 +20,11 @@ X-Git-NotificationType: ref_changed
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a change to tag tag
 in repository test-repo.
 
         at  1034ac6   (commit)
 No new revisions were added by this update.
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 EOF
 ######################################################################
 Sending notification emails to: Refchange List <refchangelist@example.com>
@@ -54,8 +48,6 @@ X-Git-Newrev: 1034ac6f45124ba093336b47541704f4a7c30dfc
 X-Git-NotificationType: ref_changed
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
-
-This is an automated email from the git hooks/post-receive script.
 
 pushuser pushed a change to tag tag
 in repository test-repo.
@@ -97,10 +89,6 @@ No new revisions were added by this update.
 Summary of changes:
  a.txt | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 EOF
 ######################################################################
 Sending notification emails to: Refchange List <refchangelist@example.com>
@@ -125,8 +113,6 @@ X-Git-NotificationType: ref_changed
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a change to tag tag
 in repository test-repo.
 
@@ -137,9 +123,5 @@ in repository test-repo.
 The revisions that were on this tag are still contained in
 other references; therefore, this change does not discard any commits
 from the repository.
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 EOF
 ######################################################################

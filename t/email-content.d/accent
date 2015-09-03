@@ -22,8 +22,6 @@ X-Git-NotificationType: ref_changed
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a change to reference HEAD
 in repository test-repo.
 
@@ -40,10 +38,6 @@ Summary of changes:
  "fichier-accentu\303\251.txt" | 1 +
  1 file changed, 1 insertion(+)
  create mode 100644 "fichier-accentu\303\251.txt"
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 EOF
 ######################################################################
 ######################################################################
@@ -67,8 +61,6 @@ X-Git-NotificationType: diff
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a commit to reference HEAD
 in repository test-repo.
 
@@ -88,9 +80,5 @@ index 0000000..aa1180f
 +++ "b/fichier-accentu\303\251.txt"
 @@ -0,0 +1 @@
 +Contenu accentué
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 EOF
 ######################################################################

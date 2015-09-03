@@ -21,8 +21,6 @@ X-Git-NotificationType: ref_changed
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a change to annotated tag tree-tag
 in repository test-repo.
 
@@ -39,10 +37,6 @@ This annotated tag points at a tag that points at a tree.
 This is an unusual reference change because the reference did not
 refer to a commit either before or after the change.  We do not know
 how to provide full information about this reference change.
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 EOF
 ######################################################################
 Sending notification emails to: Announce List <announcelist@example.com>, Zébulon <zeb@example.com>
@@ -68,8 +62,6 @@ X-Git-NotificationType: ref_changed
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a change to annotated tag tree-tag
 in repository test-repo.
 
@@ -89,10 +81,6 @@ This annotated tag points at a tag that points at a tree.
 The revisions that were on this annotated tag are still contained in
 other references; therefore, this change does not discard any commits
 from the repository.
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 EOF
 ######################################################################
 Sending notification emails to: Announce List <announcelist@example.com>, Zébulon <zeb@example.com>
@@ -118,8 +106,6 @@ X-Git-NotificationType: ref_changed
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a change to annotated tag tree-tag
 in repository test-repo.
 
@@ -130,10 +116,6 @@ in repository test-repo.
 This is an unusual reference change because the reference did not
 refer to a commit either before or after the change.  We do not know
 how to provide full information about this reference change.
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 EOF
 ######################################################################
 Sending notification emails to: Announce List <announcelist@example.com>, Zébulon <zeb@example.com>
@@ -159,8 +141,6 @@ X-Git-NotificationType: ref_changed
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a change to annotated tag recursive-tag
 in repository test-repo.
 
@@ -175,10 +155,6 @@ This annotated tag points at another annotated tag.
 -----------------------------------------------------------------------
 
 No new revisions were added by this update.
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 EOF
 ######################################################################
 Sending notification emails to: Announce List <announcelist@example.com>, Zébulon <zeb@example.com>
@@ -203,8 +179,6 @@ X-Git-Newrev: b56d4b8564a5f3082eb493c9e765d7de3237014e
 X-Git-NotificationType: ref_changed
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
-
-This is an automated email from the git hooks/post-receive script.
 
 pushuser pushed a change to annotated tag recursive-tag
 in repository test-repo.
@@ -255,10 +229,6 @@ No new revisions were added by this update.
 Summary of changes:
  a.txt | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 EOF
 ######################################################################
 Sending notification emails to: Announce List <announcelist@example.com>, Zébulon <zeb@example.com>
@@ -284,8 +254,6 @@ X-Git-NotificationType: ref_changed
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a change to annotated tag recursive-tag
 in repository test-repo.
 
@@ -296,9 +264,5 @@ in repository test-repo.
 The revisions that were on this annotated tag are still contained in
 other references; therefore, this change does not discard any commits
 from the repository.
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 EOF
 ######################################################################
