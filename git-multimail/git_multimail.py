@@ -209,10 +209,6 @@ in repository %(repo_shortname)s.
 
 
 FOOTER_TEMPLATE = """\
-
--- \n\
-To stop receiving notification emails like this one, please contact
-%(administrator)s.
 """
 
 
