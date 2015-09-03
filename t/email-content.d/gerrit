@@ -22,8 +22,6 @@ X-Git-NotificationType: ref_changed
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 Sûb Mitter pushed a change to branch mastèr
 in repository test-repo.
 
@@ -39,10 +37,6 @@ been added to this reference.
 Summary of changes:
  a.txt | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 ===========================================================================
 ===========================================================================
 Date: ...
@@ -64,8 +58,6 @@ X-Git-NotificationType: diff
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 Sûb Mitter pushed a commit to branch mastèr
 in repository test-repo.
 
@@ -85,10 +77,6 @@ index 63a911f..7ed6ff8 100644
 @@ -1 +1 @@
 -m1
 +5
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 ===========================================================================
 Switched to a new branch 'master'
 Deleted branch mastèr (was 902dfe1).
@@ -114,8 +102,6 @@ X-Git-NotificationType: ref_changed
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 Sub Mîtter pushed a change to branch master
 in repository demo-project.
 
@@ -131,10 +117,6 @@ been added to this reference.
 Summary of changes:
  a.txt | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 ===========================================================================
 ===========================================================================
 Date: ...
@@ -156,8 +138,6 @@ X-Git-NotificationType: diff
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 Sub Mîtter pushed a commit to branch master
 in repository demo-project.
 
@@ -177,10 +157,6 @@ index 63a911f..7ed6ff8 100644
 @@ -1 +1 @@
 -m1
 +5
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 ===========================================================================
 $ git_multimail.py -c multimailhook.from= --stdout --oldrev refs/heads/master^ --newrev refs/heads/master --refname master --project demo-project --submitter Submitter without Email
 Sending notification emails to: Refchange List <refchangelist@example.com>
@@ -204,8 +180,6 @@ X-Git-NotificationType: ref_changed
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 Submitter without Email pushed a change to branch master
 in repository test-repo.
 
@@ -221,10 +195,6 @@ been added to this reference.
 Summary of changes:
  a.txt | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 ===========================================================================
 ===========================================================================
 Date: ...
@@ -246,8 +216,6 @@ X-Git-NotificationType: diff
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 Submitter without Email pushed a commit to branch master
 in repository test-repo.
 
@@ -267,8 +235,4 @@ index 63a911f..7ed6ff8 100644
 @@ -1 +1 @@
 -m1
 +5
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 ===========================================================================

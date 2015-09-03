@@ -20,8 +20,6 @@ X-Git-NotificationType: ref_changed
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a change to branch master
 in repository test-repo.
 
@@ -62,10 +60,6 @@ index b8626c4..7ed6ff8 100644
 @@ -1 +1 @@
 -4
 +5
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 EOF
 ######################################################################
 ######################################################################
@@ -89,8 +83,6 @@ X-Git-NotificationType: diff
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a commit to branch master
 in repository test-repo.
 
@@ -100,10 +92,6 @@ Author: Joe User <user@example.com>
 AuthorDate: Fri Feb 3 09:32:27 2012 +0100
 
     m1
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 EOF
 ######################################################################
 ######################################################################
@@ -127,8 +115,6 @@ X-Git-NotificationType: diff
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a commit to branch master
 in repository test-repo.
 
@@ -147,9 +133,5 @@ index 63a911f..7ed6ff8 100644
 @@ -1 +1 @@
 -m1
 +5
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 EOF
 ######################################################################

@@ -21,8 +21,6 @@ X-Git-NotificationType: ref_changed
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a change to branch master
 in repository name<with>special&chars;.git.
 
@@ -42,11 +40,6 @@ been added to this reference.
 Summary of changes:
  a.txt | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
-<br />
-<span style="color:#808080">-- <br />
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com> or <a href="http://example.com">click here</a>.
-</span>
 EOF
 ######################################################################
 ######################################################################
@@ -71,8 +64,6 @@ X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
 <pre style='margin:0'>
-&lt;span style="color:#808080"&gt;This is an automated email from the git hooks/post-receive script.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;
-
 &lt;strong&gt;pushuser&lt;/strong&gt; pushed a commit to branch master
 in repository name&lt;with&gt;special&amp;chars;.git.&lt;br /&gt;
 
@@ -98,11 +89,6 @@ AuthorDate: Fri Feb 3 09:32:27 2012 +0100
 </span> -f3
 <span style='display:block; white-space:pre;background:#e0ffe0;'>++m1
 </span></pre><pre style='margin:0'>
-&lt;br /&gt;
-&lt;span style="color:#808080"&gt;-- &lt;br /&gt;
-To stop receiving notification emails like this one, please contact
-Administrator &lt;administrator@example.com&gt; or &lt;a href="http://example.com"&gt;click here&lt;/a&gt;.
-&lt;/span&gt;
 </pre>
 EOF
 ######################################################################
@@ -128,8 +114,6 @@ X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
 <pre style='margin:0'>
-&lt;span style="color:#808080"&gt;This is an automated email from the git hooks/post-receive script.&lt;/span&gt;&lt;br /&gt;&lt;br /&gt;
-
 &lt;strong&gt;pushuser&lt;/strong&gt; pushed a commit to branch master
 in repository name&lt;with&gt;special&amp;chars;.git.&lt;br /&gt;
 
@@ -153,11 +137,6 @@ AuthorDate: Fri Feb 3 09:32:50 2012 +0100
 </span><span style='display:block; white-space:pre;background:#ffe0e0;'>-m1
 </span><span style='display:block; white-space:pre;background:#e0ffe0;'>+5
 </span></pre><pre style='margin:0'>
-&lt;br /&gt;
-&lt;span style="color:#808080"&gt;-- &lt;br /&gt;
-To stop receiving notification emails like this one, please contact
-Administrator &lt;administrator@example.com&gt; or &lt;a href="http://example.com"&gt;click here&lt;/a&gt;.
-&lt;/span&gt;
 </pre>
 EOF
 ######################################################################
@@ -184,8 +163,6 @@ X-Git-NotificationType: ref_changed
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a change to branch master
 in repository name<with>special&chars;.git.
 
@@ -205,11 +182,6 @@ been added to this reference.
 Summary of changes:
  a.txt | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
-<br />
-<span style="color:#808080">-- <br />
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com> or <a href="http://example.com">click here</a>.
-</span>
 EOF
 ######################################################################
 ######################################################################
@@ -232,8 +204,6 @@ X-Git-Rev: d245c99162aff6fff4879e5d5c17d454766b45db
 X-Git-NotificationType: diff
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
-
-<span style="color:#808080">This is an automated email from the git hooks/post-receive script.</span><br /><br />
 
 <strong>pushuser</strong> pushed a commit to branch master
 in repository name&lt;with&gt;special&amp;chars;.git.<br />
@@ -259,11 +229,6 @@ AuthorDate: Fri Feb 3 09:32:27 2012 +0100
 </span> -f3
 <span style='display:block; white-space:pre;background:#e0ffe0;'>++m1
 </span></pre><pre style='margin:0'>
-&lt;br /&gt;
-&lt;span style="color:#808080"&gt;-- &lt;br /&gt;
-To stop receiving notification emails like this one, please contact
-Administrator &lt;administrator@example.com&gt; or &lt;a href="http://example.com"&gt;click here&lt;/a&gt;.
-&lt;/span&gt;
 </pre>
 EOF
 ######################################################################
@@ -288,8 +253,6 @@ X-Git-NotificationType: diff
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-<span style="color:#808080">This is an automated email from the git hooks/post-receive script.</span><br /><br />
-
 <strong>pushuser</strong> pushed a commit to branch master
 in repository name&lt;with&gt;special&amp;chars;.git.<br />
 
@@ -312,11 +275,6 @@ AuthorDate: Fri Feb 3 09:32:50 2012 +0100
 </span><span style='display:block; white-space:pre;background:#ffe0e0;'>-m1
 </span><span style='display:block; white-space:pre;background:#e0ffe0;'>+5
 </span></pre><pre style='margin:0'>
-&lt;br /&gt;
-&lt;span style="color:#808080"&gt;-- &lt;br /&gt;
-To stop receiving notification emails like this one, please contact
-Administrator &lt;administrator@example.com&gt; or &lt;a href="http://example.com"&gt;click here&lt;/a&gt;.
-&lt;/span&gt;
 </pre>
 EOF
 ######################################################################
@@ -343,8 +301,6 @@ X-Git-NotificationType: ref_changed
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a change to branch master
 in repository name<with>special&chars;.git.
 
@@ -364,11 +320,6 @@ been added to this reference.
 Summary of changes:
  a.txt | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
-<br />
-<span style="color:#808080">-- <br />
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com> or <a href="http://example.com">click here</a>.
-</span>
 EOF
 ######################################################################
 ######################################################################
@@ -391,8 +342,6 @@ X-Git-Rev: d245c99162aff6fff4879e5d5c17d454766b45db
 X-Git-NotificationType: diff
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
-
-<span style="color:#808080">This is an automated email from the git hooks/post-receive script.</span><br /><br />
 
 <strong>pushuser</strong> pushed a commit to branch master
 in repository name&lt;with&gt;special&amp;chars;.git.<br />
@@ -417,12 +366,7 @@ AuthorDate: Fri Feb 3 09:32:27 2012 +0100
 </span><span style='display:block; white-space:pre;background:#ffe0e0;'>- 4
 </span> -f3
 <span style='display:block; white-space:pre;background:#e0ffe0;'>++m1
-</span></pre><br />
-<span style="color:#808080">-- <br />
-To stop receiving notification emails like this one, please contact
-Administrator &lt;administrator@example.com&gt; or <a href="http://example.com">click here</a>.
-</span>
-EOF
+</span></pre>EOF
 ######################################################################
 ######################################################################
 /usr/sbin/sendmail -oi -t -f Sender <sender@example.com> <<EOF
@@ -445,8 +389,6 @@ X-Git-NotificationType: diff
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-<span style="color:#808080">This is an automated email from the git hooks/post-receive script.</span><br /><br />
-
 <strong>pushuser</strong> pushed a commit to branch master
 in repository name&lt;with&gt;special&amp;chars;.git.<br />
 
@@ -468,10 +410,5 @@ AuthorDate: Fri Feb 3 09:32:50 2012 +0100
 </span><span style='display:block; white-space:pre;background:#e0e0e0;'>@@ -1 +1 @@
 </span><span style='display:block; white-space:pre;background:#ffe0e0;'>-m1
 </span><span style='display:block; white-space:pre;background:#e0ffe0;'>+5
-</span></pre><br />
-<span style="color:#808080">-- <br />
-To stop receiving notification emails like this one, please contact
-Administrator &lt;administrator@example.com&gt; or <a href="http://example.com">click here</a>.
-</span>
-EOF
+</span></pre>EOF
 ######################################################################

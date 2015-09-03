@@ -20,8 +20,6 @@ X-Git-NotificationType: ref_changed
 X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a change to branch master
 in repository test-repo.
 
@@ -41,10 +39,6 @@ been added to this reference.
 Summary of changes:
  a.txt | 2 +-
  1 file changed, 1 insertion(+), 1 deletion(-)
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator <administrator@example.com>.
 EOF
 ######################################################################
 ######################################################################
@@ -69,8 +63,6 @@ X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
 <pre style='margin:0'>
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a commit to branch master
 in repository test-repo.
 
@@ -94,10 +86,6 @@ AuthorDate: Fri Feb 3 09:32:27 2012 +0100
 </span> -f3
 <span style='display:block; white-space:pre;background:#e0ffe0;'>++m1
 </span></pre><pre style='margin:0'>
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator &lt;administrator@example.com&gt;.
 </pre>
 EOF
 ######################################################################
@@ -123,8 +111,6 @@ X-Git-Multimail-Version: ...
 Auto-Submitted: auto-generated
 
 <pre style='margin:0'>
-This is an automated email from the git hooks/post-receive script.
-
 pushuser pushed a commit to branch master
 in repository test-repo.
 
@@ -146,10 +132,6 @@ AuthorDate: Fri Feb 3 09:32:50 2012 +0100
 </span><span style='display:block; white-space:pre;background:#ffe0e0;'>-m1
 </span><span style='display:block; white-space:pre;background:#e0ffe0;'>+5
 </span></pre><pre style='margin:0'>
-
--- 
-To stop receiving notification emails like this one, please contact
-Administrator &lt;administrator@example.com&gt;.
 </pre>
 EOF
 ######################################################################
