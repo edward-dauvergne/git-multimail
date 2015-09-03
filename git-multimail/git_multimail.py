@@ -175,8 +175,6 @@ Auto-Submitted: auto-generated
 """
 
 REFCHANGE_INTRO_TEMPLATE = """\
-This is an automated email from the git hooks/post-receive script.
-
 %(pusher)s pushed a change to %(refname_type)s %(short_refname)s
 in repository %(repo_shortname)s.
 
@@ -306,8 +304,6 @@ Auto-Submitted: auto-generated
 """
 
 REVISION_INTRO_TEMPLATE = """\
-This is an automated email from the git hooks/post-receive script.
-
 %(pusher)s pushed a commit to %(refname_type)s %(short_refname)s
 in repository %(repo_shortname)s.
 
@@ -341,8 +337,6 @@ Auto-Submitted: auto-generated
 """
 
 COMBINED_INTRO_TEMPLATE = """\
-This is an automated email from the git hooks/post-receive script.
-
 %(pusher)s pushed a commit to %(refname_type)s %(short_refname)s
 in repository %(repo_shortname)s.
 
